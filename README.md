@@ -21,23 +21,23 @@ The Dentist Appointment Booking App is a user-friendly web application designed 
 ## Installation  
 To run this application locally, follow these steps:
 
-1. **Clone the repository:**
-   git clone <repository-url>
-   cd dentist-booking-app
+1. **Clone the repository:**</br>
+   ```git clone <repository-url>```</br>
+   ```cd dentist-booking-app```</br>
 
-2. **Set up the Backend:**
-   Navigate to the backend directory:
-     cd backend
-   Install the required packages:
-     npm install
-   Create a .env file for environment variables and include your MongoDB connection string and Stripe API keys.
-   Start the server:
-     npm start
+2. **Set up the Backend:**</br>
+   Navigate to the backend directory:</br>
+     ```cd backend```</br>
+   Install the required packages:</br>
+     ```npm install```</br>
+   Create a .env file for environment variables and include your MongoDB connection string and Stripe API keys.</br>
+   Start the server:</br>
+     ```npm start```</br>
 
-3. **Set up the Frontend:**
-   Navigate to the frontend directory:
-   cd ../frontend
-   Install the required packages:
-     npm install
-   Start the frontend application:
-     npm start
+3. **Set up the Frontend:**</br>
+   Navigate to the frontend directory:</br>
+   ```cd ../frontend```</br>
+   Install the required packages:</br>
+     ```npm install```</br>
+   Start the frontend application:</br>
+     ```npm start```</br>
